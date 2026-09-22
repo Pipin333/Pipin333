@@ -1,8 +1,8 @@
 # Hi there, I'm Felipe S. Riquelme Salvo 👋
 
 ```text
-Software & CS Engineer · Applied Metaheuristics · Distributed Systems & Media Automation
-Santiago, Chile 🇨🇱 · Universidad Andrés Bello (Level 7 ISCED / M.Sc. Equivalent)
+Software & CS Engineer · Applied Metaheuristics · Distributed Systems & Automation
+Santiago, Chile 🇨🇱 · Universidad Andrés Bello
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Riquelme-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -11,36 +11,31 @@ Santiago, Chile 🇨🇱 · Universidad Andrés Bello (Level 7 ISCED / M.Sc. Equ
 
 ---
 
-### 🚀 What I Do
+### 🚀 What I Build
 
-I build at the intersection of **algorithmic research**, **distributed backend systems**, and **pragmatic product automation**. From designing continuous optimization metaheuristics that surpass IEEE CEC world champions to building zero-friction WhatsApp interfaces for media stacks and B2B supply chains.
+I focus on **high-performance algorithms**, **distributed backend systems**, and **zero-friction automation pipelines**. Whether it's navigating complex 50-dimensional non-convex landscapes or building event-driven conversational interfaces for media stacks and commercial supply chains:
 
 ```
-       [ Mathematical Theory ] ──► [ Systems Engineering ] ──► [ Real-World Production ]
-       CEC 2020 50D SOTA            Oracle ARM64 & Microservices  Physical Logistics & Micro-SaaS
+       [ Algorithmic Optimization ] ──► [ Distributed Systems ] ──► [ Production Automation ]
+         CEC 2020 50D SOTA                 Oracle Cloud ARM64           WhatsApp Bots & Supply Chain
 ```
 
 ---
 
-### 🔬 Featured Research & Metaheuristics
+### ⚡ Featured Projects & Algorithms
 
 * **[AD-BSA (Adaptive Differential Boogeyman Search Algorithm)](https://github.com/Pipin333/AD-BSA)**  
-  Continuous global optimization metaheuristic introducing **explicit negative learning** via dynamic Anti-Attractor centroids and regularized trigonometric Pöschl-Teller / Sutherland repulsive barriers ($|\csc(x)|$).
-  * 🏆 **#1 Overall World Rank** on 100% of the official IEEE CEC 2020 Benchmark Suite in 50 Dimensions ($D=50$, 1,800 independent runs).
-  * 🧹 **10–0 Clean Sweep** against the reigning IEEE CEC 2017 champion (jSO) and superior multimodal landscape navigation over Nikolaus Hansen's CMA-ES.
-  * ⚛️ **Quantum Atomtronics Application:** $+184.3\%$ sensitivity boost in multi-harmonic optimal Floquet control of many-body Bose-Hubbard ring Hamiltonians (*with S. Carmona-López, Physical Review Research follow-up*).
-
-* **[Beyond Transcript Metrics: Multimodal Retention Framework](https://github.com/Pipin333)**  
-  Educational Data Mining framework integrating physical turnstile telemetry (Campus Dwell Ratio $R_{\text{patio}}$), circadian LMS activity footprints, and peer-anchor relational graphs with 10-semester longitudinal Cox Proportional Hazards modeling.
-
----
-
-### 🛠️ Systems, Media & Automation
+  Continuous global optimization metaheuristic framework introducing **explicit negative learning** (*Anti-Attractor Dynamics*) and bounded trigonometric cosecant repulsion barriers ($|\csc(\cdot)|$).
+  * 🏆 **#1 Overall Friedman Rank (1.40)** across 100% of the official IEEE CEC 2020 Benchmark Suite in 50 Dimensions ($D=50$, 30 independent runs).
+  * 🧹 **10–0 Clean Sweep** against the reigning IEEE CEC 2017 champion (jSO) and superior multimodal trap escape over Nikolaus Hansen's CMA-ES.
+  * 📐 Dynamic $k$-means anti-attractor clustering with non-linear thermodynamic annealing.
 
 * **[WhatsArr](https://github.com/Pipin333/whatsarr)**  
-  Event-driven WhatsApp request gateway for **Radarr, Sonarr, Prowlarr, qBittorrent & Plex**. Features fuzzy title resolution (`fuzzball` + TMDB), interactive multi-language menus (Latino, Castellano, Sub), strict custom format disk protection (10 GB max / movie), and real-time webhook status notifications back to WhatsApp.
+  Event-driven WhatsApp request gateway for **Radarr, Sonarr, Prowlarr, qBittorrent & Plex**. Features fuzzy title matching (`fuzzball` + TMDB), interactive multi-language selection (Latino, Castellano, Sub), strict custom format disk protection (10 GB max / movie), and real-time webhook status notifications.
+
 * **[Tooodles](https://github.com/Pipin333/Tooodles)**  
   High-throughput, low-latency Discord audio streaming engine deployed on Oracle Cloud ARM64 architecture, powered by a hybrid collaborative filtering recommendation engine using 256-dimensional ALS latent factor decomposition and Item2Vec embeddings.
+
 * **[CalculadoraCopete](https://github.com/Pipin333/calculadoracopete)**  
   Algorithmic event beverage logistics calculator designed to optimize party provisioning without friction.
 
@@ -48,7 +43,7 @@ I build at the intersection of **algorithmic research**, **distributed backend s
 
 ### 📦 Commercial & Supply Chain Operations
 
-* **Keller SpA (COO & Digital Transformation):** Managing international supply chain logistics (China-Chile direct import via TLC 0% tariff), automated B2B customer quoting pipelines, and warehouse operations.
+* **Keller SpA (COO & Digital Transformation):** Managing international automotive supply chain logistics (China-Chile direct import via TLC 0% tariff), automated B2B customer quoting pipelines, and warehouse operations.
 * **Selva Alta Roasters / TastyChile:** Direct-trade platform architecture for 87-point SCA Peruvian specialty coffee (Marsellesa varietal).
 
 ---
@@ -56,11 +51,11 @@ I build at the intersection of **algorithmic research**, **distributed backend s
 ### 🧰 Tech Stack & Tools
 
 ```text
-Languages     : Python, JavaScript (ESNext), TypeScript, C++, SQL, LaTeX
-AI & Math     : NumPy, SciPy, PyTorch, Scikit-learn, Metaheuristics, Survival Analysis
+Languages     : Python, JavaScript (ESNext), TypeScript, C++, SQL
+Math & Data   : NumPy, SciPy, PyTorch, Metaheuristics, Numerical Optimization
 Backend & Web : Node.js, Express, Next.js, React, WebSockets, Baileys, REST APIs
 Data & Cloud  : PostgreSQL (Neon), Oracle Cloud Infrastructure (ARM64), Git, Docker, Linux
-Hardware & OS : Lean AVX2 vectorization, low-power commodity compute architecture
+Performance   : Vectorized AVX2 execution, low-power commodity compute architecture
 ```
 
 ---
