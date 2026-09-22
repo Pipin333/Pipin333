@@ -78,7 +78,7 @@ Performance   : Vectorized AVX2 execution, low-power commodity compute architect
 
 <div align="center">
 
-[![Pipin333's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Pipin333&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,contribs&include_all_commits=true)](https://github.com/Pipin333)
+[![Pipin333's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Pipin333&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide=issues,contribs)](https://github.com/Pipin333)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pipin333&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Pipin333)
 
 <br/>
