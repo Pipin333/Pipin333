@@ -26,9 +26,8 @@ I focus on **high-performance algorithms**, **distributed backend systems**, and
 
 * **[AD-BSA (Adaptive Differential Boogeyman Search Algorithm)](https://github.com/Pipin333/AD-BSA)**  
   Continuous global optimization metaheuristic framework introducing **explicit negative learning** (*Anti-Attractor Dynamics*) and bounded trigonometric cosecant repulsion barriers ($|\csc(\cdot)|$).
-  * 🏆 **#1 Overall Friedman Rank (1.40)** across 100% of the official IEEE CEC 2020 Benchmark Suite in 50 Dimensions ($D=50$, 30 independent runs).
-  * 🧹 **10–0 Clean Sweep** against the reigning IEEE CEC 2017 champion (jSO) and superior multimodal trap escape over Nikolaus Hansen's CMA-ES.
-  * 📐 Dynamic $k$-means anti-attractor clustering with non-linear thermodynamic annealing.
+  * 🏆 Achieved top Friedman rank tied at **2.30** with Nikolaus Hansen's **CMA-ES** across the official IEEE CEC 2020 Benchmark Suite in 50 Dimensions ($D=50$, 30 independent runs).
+  * 📐 Dynamic $k$-means anti-attractor clustering with non-linear thermodynamic annealing and robust multimodal trap escape.
 
 * **[WhatsArr](https://github.com/Pipin333/whatsarr)**  
   Event-driven WhatsApp request gateway for **Radarr, Sonarr, Prowlarr, qBittorrent & Plex**. Features fuzzy title matching (`fuzzball` + TMDB), interactive multi-language selection (Latino, Castellano, Sub), strict custom format disk protection (10 GB max / movie), and real-time webhook status notifications.
