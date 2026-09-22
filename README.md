@@ -62,9 +62,7 @@ Performance   : Vectorized AVX2 execution, low-power commodity compute architect
 
 <div align="center">
 
-[![Pipin333's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pipin333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Pipin333)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pipin333&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Pipin333)
-
-*"Optimizing landscapes from 50-dimensional hypercubes to real-world supply chains."*
+[![Pipin333's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Pipin333&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Pipin333)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pipin333&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Pipin333)
 
 </div>
