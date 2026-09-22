@@ -1,7 +1,7 @@
 # Hi there, I'm Felipe S. Riquelme Salvo 👋
 
 ```text
-Software & CS Engineer · Applied Metaheuristics · Distributed Systems & Automation
+Software & CS Engineer · Applied Metaheuristics · Innovation & Digital Transformation
 Santiago, Chile 🇨🇱 · Universidad Andrés Bello
 ```
 
@@ -40,10 +40,11 @@ I focus on **high-performance algorithms**, **distributed backend systems**, and
 
 ---
 
-### 📦 Commercial & Supply Chain Operations
+### 💡 Innovation, Entrepreneurship & Digital Transformation
 
-* **Keller SpA (COO & Digital Transformation):** Managing international automotive supply chain logistics (China-Chile direct import via TLC 0% tariff), automated B2B customer quoting pipelines, and warehouse operations.
-* **Selva Alta Roasters / TastyChile:** Direct-trade platform architecture for 87-point SCA Peruvian specialty coffee (Marsellesa varietal).
+Beyond pure code and algorithms, my core driver is **venture building and practical operational modernization**:
+* **Legacy Process Modernization:** Bridging real-world business bottlenecks with clean automation—streamlining B2B fulfillment pipelines, designing conversational sales interfaces via WhatsApp/chatbots, and removing manual friction from traditional operations.
+* **0-to-1 Product Execution:** Transforming raw opportunities into viable, deployed digital products with sound unit economics, from micro-SaaS utilities to automated commerce platforms.
 
 ---
 
