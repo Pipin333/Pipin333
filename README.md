@@ -26,7 +26,7 @@ I focus on **high-performance algorithms**, **distributed backend systems**, and
 
 * **[AD-BSA (Adaptive Differential Boogeyman Search Algorithm)](https://github.com/Pipin333/AD-BSA)**  
   Continuous global optimization metaheuristic framework introducing **explicit negative learning** (*Anti-Attractor Dynamics*) and bounded trigonometric cosecant repulsion barriers ($|\csc(\cdot)|$).
-  * 🏆 Achieved top Friedman rank tied at **2.30** with Nikolaus Hansen's **CMA-ES** across the official IEEE CEC 2020 Benchmark Suite in 50 Dimensions ($D=50$, 30 independent runs).
+  * 🏆 Achieved top Friedman rank tied at **2.30** with Nikolaus Hansen's **CMA-ES** across the official IEEE CEC 2020 Benchmark Suite in 50 Dimensions ($D=50$, 10 independent runs).
   * 📐 Dynamic $k$-means anti-attractor clustering with non-linear thermodynamic annealing and robust multimodal trap escape.
 
 * **[WhatsArr](https://github.com/Pipin333/whatsarr)**  
