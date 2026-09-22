@@ -1,13 +1,13 @@
 # Hi there, I'm Felipe S. Riquelme Salvo 👋
 
-```text
-Software & CS Engineer · Applied Metaheuristics · Innovation & Digital Transformation
-Santiago, Chile 🇨🇱 · Universidad Andrés Bello
-```
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=61AFEF&width=550&lines=Software+%26+Computer+Science+Engineer;Applied+Metaheuristics+%26+Numerical+Optimization;Distributed+Systems+%26+Production+Automation;Venture+Building+%26+Digital+Transformation" alt="Typing SVG" />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Riquelme-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Pipin333-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pipin333)
 [![Email](https://img.shields.io/badge/Email-f.riquelmesalvo%40uandresbello.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:f.riquelmesalvo@uandresbello.edu)
+[![Location](https://img.shields.io/badge/Location-Santiago%2C%20Chile%20🇨🇱-24292e?style=flat-square)](https://github.com/Pipin333)
 
 ---
 
@@ -22,7 +22,19 @@ I focus on **high-performance algorithms**, **distributed backend systems**, and
 
 ---
 
-### ⚡ Featured Projects & Algorithms
+### ⚡ Featured Repositories & Algorithms
+
+<div align="center">
+
+<a href="https://github.com/Pipin333/AD-BSA"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Pipin333&repo=AD-BSA&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Pipin333/whatsarr"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Pipin333&repo=whatsarr&theme=tokyonight&hide_border=true" /></a>
+
+<a href="https://github.com/Pipin333/Tooodles"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Pipin333&repo=Tooodles&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Pipin333/calculadoracopete"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Pipin333&repo=calculadoracopete&theme=tokyonight&hide_border=true" /></a>
+
+</div>
+
+<br/>
 
 * **[AD-BSA (Adaptive Differential Boogeyman Search Algorithm)](https://github.com/Pipin333/AD-BSA)**  
   Continuous global optimization metaheuristic framework introducing **explicit negative learning** (*Anti-Attractor Dynamics*) and bounded trigonometric cosecant repulsion barriers ($|\csc(\cdot)|$).
