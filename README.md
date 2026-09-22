@@ -50,6 +50,10 @@ Beyond pure code and algorithms, my core driver is **venture building and practi
 
 ### 🧰 Tech Stack & Tools
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,postgres,react,nextjs,nodejs,git,docker,linux,pytorch&theme=dark" alt="Tech Stack Icons" />
+</p>
+
 ```text
 Languages     : Python, JavaScript (ESNext), TypeScript, C++, SQL
 Math & Data   : NumPy, SciPy, PyTorch, Metaheuristics, Numerical Optimization
@@ -62,7 +66,11 @@ Performance   : Vectorized AVX2 execution, low-power commodity compute architect
 
 <div align="center">
 
-[![Pipin333's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Pipin333&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Pipin333)
+[![Pipin333's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Pipin333&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,contribs&include_all_commits=true)](https://github.com/Pipin333)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pipin333&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Pipin333)
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pipin333&theme=tokyonight&hide_border=true)](https://github.com/Pipin333)
 
 </div>
