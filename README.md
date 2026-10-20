@@ -1,4 +1,4 @@
-# Hi, I'm Felipe S. Riquelme Salvo 👋
+# Hi, I'm Felipe Riquelme  👋
 
 **Computer Science & Software Engineering Student** @ UNAB · Santiago, Chile 🇨🇱  
 
